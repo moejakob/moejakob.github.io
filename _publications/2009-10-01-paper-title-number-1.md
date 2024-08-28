@@ -2,7 +2,7 @@
 title: "Leitfaden zur digitalen Datensparsamkeit"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/leitfaden-datensparsamkeit
 excerpt: 'In diesem Paper geben wir (das Team Open Science und der Arbeitskreis Forschungsdatenmanagement Baden-Württemberg) Empfehlungen zur digitalen Datensparsamkeit, um den Umgang mit großen Forschungsdatenmengen effizienter und nachhaltiger zu gestalten.'
 date: 2024-05-28
 venue: 'O|Bib. Das Offene Bibliotheksjournal'
