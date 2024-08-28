@@ -1,0 +1,13 @@
+---
+title: "Context vs. Human Disagreement in Sarcasm Detection"
+collection: publications
+category: conferences
+permalink: /publication/sarcasm-detection
+excerpt: 'In diesem Paper nutzen wir statistische Methoden und Sprachmodelle, um zu untersuchen, wie der Umfang kontextueller Informationen die Erkennung von Sarkasmus durch Menschen und Maschinen beeinflusst.'
+date: 2024-06-00
+venue: 'Proceedings of the 4th Workshop on Figurative Language Processing (FigLang 2024)'
+paperurl: 'http://moejakob.github.io/files/figlang.pdf'
+citation: 'Jang, H., Jakob, M., Frassinelli, D. (2024). &quot;Context vs. Human Disagreement in Sarcasm Detection.&quot; <i>GitHub Proceedings of the 4th Workshop on Figurative Language Processing (FigLang 2024)</i>. 1-7.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
