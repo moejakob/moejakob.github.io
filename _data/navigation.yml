@@ -15,7 +15,7 @@ main:
     url: /files/JakobM_CV.pdf
 
   - title: "Blog"
-    url: /posts/
+    url: /blog/
     
   - title: "Guide"
     url: /markdown/
