@@ -12,4 +12,4 @@ Hello! I'm Moritz, an aspiring data professional based in Konstanz, Germany. I h
 
 [![Blog](/images/blog_caption.jpg)](https://moejakob.github.io/blog/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Portfolio](/images/portfolio_caption.jpg)](https://moejakob.github.io/portfolio/)
 
-[![Blog](/images/blog_caption.jpg)](https://moejakob.github.io/blog/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Portfolio](/images/publications_caption.jpg)](https://moejakob.github.io/portfolio/)
+[![Blog](/images/blog_caption.jpg)](https://moejakob.github.io/blog/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Publications](/images/publications_caption.jpg)](https://moejakob.github.io/publications/)
