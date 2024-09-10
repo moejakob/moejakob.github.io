@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Data Science Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .tiles {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .tile {
+            background-color: #007bff;
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .tile:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <p>Welcome to my portfolio! Below are some of the data science projects I have worked on. Click on any tile to learn more about each project.</p>
+
+        <div class="tiles">
+            <div class="tile" onclick="window.location.href='https://your-first-link.com'">
+                Project 1
+            </div>
+            <div class="tile" onclick="window.location.href='https://your-second-link.com'">
+                Project 2
+            </div>
+            <div class="tile" onclick="window.location.href='https://your-third-link.com'">
+                Project 3
+            </div>
+            <div class="tile" onclick="window.location.href='https://your-fourth-link.com'">
+                Project 4
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
