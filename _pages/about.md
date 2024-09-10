@@ -12,3 +12,8 @@ Hello! I'm Moritz, an aspiring data professional based in Konstanz, Germany. I h
 
 # See what I'm up to in my blog
 [![Blog](/images/blog_350.jpg)](https://moejakob.github.io/blog/)
+
+<figure>
+  <img src="/images/blog_350.jpg)" alt="My image caption">
+  <figcaption>[See what I'm up to in my blog](https://moejakob.github.io/blog/)</figcaption>
+</figure>
