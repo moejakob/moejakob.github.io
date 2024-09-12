@@ -35,10 +35,10 @@ Now that you know some of the key facts, I hope I woke your curiosity. So let's 
 ### Volunteer ratio
 The first thing I wanted to know is how many of the runners who have participated in our event have ever volunteered at an event by the same global organisation. And the very pleasant answer to that is: more than half!! All the people who willingly offer their time to volunteer at our running events make it possible to organise them week in, week out - they are absolute legends!
 
-![Volunteer Ratio](/images/volunteer_ratio.png)
+![Volunteer Ratio](/images/pie.png)
 
 ### Seasonal differences
 Anyone who runs, knows that is quite different to run at different times of the year. For example, it is a lot easier to find the motivation to go for a run on a nice and sunny summer morning than on a cold and wet winter morning. This is very nicely reflected in the data (see the graph on the left). It even turns out that there are some seasonal differences in running speed (see the graph on the right). While the differences in running speed don't seem too big, 0.5 km/h (the difference between spring and summer) comes out to a finishing time difference of almost 1:30 min which over 5 kilometers is quite a lot.
 
-![Seasonal differences](/images/seasonal_diffs.pns)
+![Seasonal differences](/images/seasonal_diffs.png)
 
