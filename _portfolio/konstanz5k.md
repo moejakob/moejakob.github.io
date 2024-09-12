@@ -46,3 +46,12 @@ Anyone who runs, knows that is quite different to run at different times of the 
 Now we established that the attendance underlies seasonal changes, let's see if there is an overall trend in participant numbers. The linegraph below shows the developement of finisher number over the 163 organised events. The first thing that (quite literally) spikes out is that one event had many more participants than all others. This was the aforementioned 100th event where we managed to recruit 125 runners to join us. The red line also shows us that attendance in our runs is overall increasing with time. One thing that is a bit harder to see, are the seasonal changes. They are reflected by the periods with higher attendance numbers (e.g. around the 100th-115th and the 145th-160th event) displayed by the blue line.
 
 ![Finishers over time](/images/finishers.png)
+
+### Average speed
+We can also see if there are any overall trends when it comes to average speed. The red line on the graph below indicates that overall there isn't really a strong trend here. However, there are still a few things we can interpret fro this graph. Firstly, it seems that in the last 20-30 weeks, the average speed has gotten more consistent (the peaks and troughs on the blue line aren't as far apart). One reason for this could be the rising numbers in attendance. With a larger sample size (i.e. with more runners per week) the average speed will converge closer to the true mean of the population. And secondly, it looks like in the first ~20 weeks, the average speed was a bit higher than later. A reason for this could be that the event in Konstanz was founded by club runners. Therefore the first attendees were likely also club runners who tend to be faster than non-club runners.
+
+![Speed over time](/images/avg_speed_over_time.png)
+
+Let's just double check if that last statement (that club runners tend to be faster than non-club runners) is true. It sure looks like it in the violinplot below.
+
+![Speed of club runners](/images/avg_speed_club.png)
