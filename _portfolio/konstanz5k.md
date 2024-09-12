@@ -42,3 +42,7 @@ Anyone who runs, knows that is quite different to run at different times of the 
 
 ![Seasonal differences](/images/seasonal_diffs.png)
 
+### Attendance
+Now we established that the attendance underlies seasonal changes, let's see if there is an overall trend in participant numbers. The linegraph below shows the developement of finisher number over the 163 organised events. The first thing that (quite literally) spikes out is that one event had many more participants than all others. This was the aforementioned 100th event where we managed to recruit 125 runners to join us. The red line also shows us that attendance in our runs is overall increasing with time. One thing that is a bit harder to see, are the seasonal changes. They are reflected by the periods with higher attendance numbers (e.g. around the 100th-115th and the 145th-160th event) displayed by the blue line.
+
+![Finishers over time](/images/finishers.png)
