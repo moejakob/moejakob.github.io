@@ -62,7 +62,7 @@ Let's just double check if that last statement (that club runners tend to be fas
 
 Finally, let's see how running performance differs by age group. In the dataset there are basically two performance metrics. One is average speed (which is derived from the finishing time) and the other one is an age graded metric that adjusts the performance for gender and age group. Let's compare them side by side.
 
-![Age group performance](/images/agegroups.png)
+[![Age group performance](/images/agegroups.png)](images/agegroups.png)
 
 Now this **a lot** of information so let's unpack it bit by bit. Let's first decode the age group abbreviations (on the horizontal axis). The letter stands for the gender and the numbers for the age(range). 
 
