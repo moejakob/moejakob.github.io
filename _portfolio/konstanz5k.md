@@ -37,6 +37,10 @@ The first thing I wanted to know is how many of the runners who have participate
 
 ![Volunteer Ratio](/images/pie.png)
 
+Unsurprisingly, there is a correlation between the number of times people have participated as a runner and the number of times they have volunteered. Generally, the longer you're part of the community, the more time you have to rack up both runs and volunteer credits.
+
+![Volunteer-Run Correlation](/images/volunteer_ratio.png)
+
 ### Seasonal differences
 Anyone who runs, knows that is quite different to run at different times of the year. For example, it is a lot easier to find the motivation to go for a run on a nice and sunny summer morning than on a cold and wet winter morning. This is very nicely reflected in the data (see the graph on the left). It even turns out that there are some seasonal differences in running speed (see the graph on the right). While the differences in running speed don't seem too big, 0.5 km/h (the difference between spring and summer) comes out to a finishing time difference of almost 1:30 min which over 5 kilometers is quite a lot.
 
@@ -55,3 +59,18 @@ We can also see if there are any overall trends when it comes to average speed. 
 Let's just double check if that last statement (that club runners tend to be faster than non-club runners) is true. It sure looks like it in the violinplot below.
 
 ![Speed of club runners](/images/avg_speed_club.png)
+
+Finally, let's see how running performance differs by age group. In the dataset there are basically two performance metrics. One is average speed (which is derived from the finishing time) and the other one is an age graded metric that adjusts the performance for gender and age group. Let's compare them side by side.
+
+![Age group performance](/images/agegroups.png)
+
+Now this **a lot** of information so let's unpack it bit by bit. Let's first decode the age group abbreviations (on the horizontal axis). The letter stands for the gender and the numbers for the age(range). 
+
+Let's look at the top graph first. This one shows the (more intuitive) average speed for each age group. The black line in the middle of each box shows the mean. There are a few patterns that we can read from this graph:
+1. Men (on the right half of the graph) tend to be faster than women (on the left side of the graph).
+2. Once they are past their childhood, both men and women tend to get slower over time.
+3. For men this decrease in average speed happens pretty gradually, while there seems to be a pretty clear cut between the female age groups F30-34 and F35-40. The reasons for this are less obvious than the previous two patterns. One guess that you could venture is that it is related to having children or to hormonal changes. But to know this for sure, we would need some additional data about the female runners.
+
+Now let's look at the bottom graph. This one shows the age average graded performance metric for each age group. The idea behind this metric (which was calculated by the running organisation not be myself) is to make running performance comparable across different genders and age groups. So overall we would expect the graph to be flatter. At least for the men (again, on the right side of the graph), this is definitely the case. Only the older age groups and one of the very young age groups look like they differ a bit from the other age groups. One reason for this could just be a relatively low attendance by members of this age group and those who do probably have a strong interest in running and will accordingly perform quite well.
+
+The female age groups on the other hand still show a pretty similar pattern to the one in the graph about average speed. The only reason I can think of why this is the case, is that the algorithm used to compute the age graded performance metric is not optimised for female age groups. A bias towards males and majority groups is a known issue in technology related fields like machine learning and could play a role here as well.
