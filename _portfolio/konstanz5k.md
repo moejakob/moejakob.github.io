@@ -1,6 +1,6 @@
 ---
 title: "Konstanz Weekly 5k Run"
-excerpt: "<a href="https://moejakob.github.io/portfolio/konstanz5k/"><img src='/images/Running.png'></a><br/>In this project I explore some data from a weekly 5 kilometer running event I help organise."
+excerpt: "<a href='https://moejakob.github.io/portfolio/konstanz5k/'><img src='/images/Running.png'></a><br/>In this project I explore some data from a weekly 5 kilometer running event I help organise."
 collection: portfolio
 ---
 ([Find all the code for this project on my Github-Account](https://github.com/moejakob/konstanz5k))
