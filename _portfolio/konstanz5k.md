@@ -3,10 +3,6 @@ title: "Konstanz Weekly 5k Run"
 excerpt: "<a href="https://moejakob.github.io/portfolio/konstanz5k/"><img src='/images/Running.png'></a><br/>In this project I explore some data from a weekly 5 kilometer running event I help organise."
 collection: portfolio
 ---
-
-<a href="http://www.google.com" target="_blank">
-  <img src="D:/MOHIT/HTML/images.jpg" />
- </a>
 ([Find all the code for this project on my Github-Account](https://github.com/moejakob/konstanz5k))
 
 I like running. It's probably my biggest hobby. I like to run by myself, in the forests, along the lake and probably most of all in the mountains. But I also like running with other people and helping them to join the (amazing) running community. I do this by organising a trailrunning group at the University Sport and I also help organising a weekly 5 kilometer running event here in Konstanz.🏃🏃
