@@ -8,4 +8,4 @@ categories: portfolio
 
 This project displays the top 10 Open Access universities in Germany from 2018 to 2021.
 
-<iframe src="{{ 'https://moejakob.github.io/moejakob.github.io/images/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="{{ 'https://github.com/moejakob/moejakob.github.io/blob/master/images/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
