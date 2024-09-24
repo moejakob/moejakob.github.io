@@ -1,6 +1,6 @@
 ---
 title: "Open Access Practices"
-excerpt: "<a href='https://moejakob.github.io/portfolio/OS_project/'><img src='/images/oa_lock.png'></a><br/>I explore Open Access practices in Germany and the world."
+excerpt: "<a href='https://moejakob.github.io/portfolio/OS_project/'><img src='/images/oa_lock_450.png'></a><br/>I explore Open Access practices in Germany and the world."
 collection: portfolio
 ---
 
