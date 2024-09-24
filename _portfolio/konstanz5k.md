@@ -85,7 +85,3 @@ The model trained for the age grade performance on the other hand performed pret
 One reason why I like random forests is that they allow you to look at the importance of the features quite easily. So let's do that to find out which variable is most helpful in predicting running performance. What we can see in the graphs below is that for the average running speed prediction, the variable **gender** is relatively the most important in predicting performance, followed by the **club affiliation**. Both variables showed clear differences in running speed in the exploratory data analysis, so this doesn't really come as a surprise. What is more surprising, is that **gender** and **agegroup** are the two best predictors for the age graded metric. Remember, this metric is actually meant to make running performance comparable across genders and agegroups so we would expect them to be less impactful when predicting this metric. However, given the fairly poor fit of the model, drawing any conclusions from it wouldn't be very smart.
 
 [![Feature importances](/images/feature_importances.png)](/images/feature_importances.png)
-
-
-check out this interactive plot:
-<iframe src="{{ 'top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
