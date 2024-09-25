@@ -17,11 +17,10 @@
 }
 
 .page {
-   width: 90%; // changed (og not in doc)
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(11.5 of 12 last); // 10
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12); // 2
   }
 
   .page__inner-wrap {
