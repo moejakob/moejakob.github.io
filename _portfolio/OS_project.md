@@ -18,8 +18,7 @@ Open Access has gained a lot of momentum in recent years. As a matter of fact, t
 <figcaption style="text-align: left; font-style: italic;">
     Figure 1: Open Access Rates (%) over Time for Different Scientific fields.
 </figcaption>
-
-
+<br/><br/>
 Additionally, OA practices also vary quite strongly by regions. In the map below I have marked the 100 universities with the highes OA rates world wide in the period 2018-2021. It is very notable that only 7 of these 100 universities are outside of Europe (3 in the USA, 2 in Africa and 2 in the Middle East). If we look more closely, we can even see that 69 of the top 100 OA universities are located in only two European countries (58 in the UK and 11 in the Netherlands).
 
 <figure>
