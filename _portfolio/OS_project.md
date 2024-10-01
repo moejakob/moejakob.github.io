@@ -56,7 +56,7 @@ These are the top 10 German universities by their open access publishing rate (p
 
 If we compare OA rates of German universities (Fig. 6) to the European average (Fig. 7), we see that, on a European level, Germany has sadly fallen behind in the uptake of open access practices. Changing this will require progressive policy making by the German government and a change in the German research culture.
 
-The values from Figures 6 and 7 are summarised in Table 1.
+Table 1 summarises the overall OA rates by scientific fields for German and for all European Universities. It is notable the German average lies below the European average in every single scientific field and in the overall OA publishing rate.
 
 | Scientific Field                  | Germany   | Europe   |
 | ----------------------------------- | ----------- | ---------- |
