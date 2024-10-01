@@ -2,7 +2,7 @@
 title: "Open Access Practices"
 excerpt: "I explore Open Access practices in Germany and the world.<br/><a href='https://moejakob.github.io/portfolio/OS_project/'><img src='/images/OA/oa_lock_450.png'></a><br/>"
 collection: portfolio
-published: false
+published: true
 ---
 
 ## Project Overview
