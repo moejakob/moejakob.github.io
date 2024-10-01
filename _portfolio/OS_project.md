@@ -31,31 +31,54 @@ Additionally, OA practices also vary quite strongly by regions. In the map below
 Open Access is often subcategorised into different *colours*. While all articles that are published in any type of OA can be accessed for free, most major publishers have adapted models (**Gold OA** and **Hybrid OA**) that require publication fees from researchers that want to publish their work as an OA article. Other models like **Green OA** and **Bronze OA** don't require publication fees. When we look at the development of OA publication rates by OA colours, we notice that the increase in OA rates is largely driven by **Gold** and **Hybrid Open Access** publications - the two models that require payment from researchers. Since research funding varies from region to region, it is not unexpected that OA practices are mostly centered around Europe rather than poorer countries. I will go into more details about this issue and about the different OA models in a blog post soon.
 
 [![Figure 3: OA publication rates over time for different OA models](/images/OA/oa_colours_rate_over_time_stack.png)](/images/OA/oa_colours_rate_over_time_stack.png)
+<figcaption style="text-align: center; font-style: italic;">
+    Figure 3: OA publication rates over time for different OA models.
+</figcaption>
+<br/><br/>
+However, it seems that the amount of funding is not the only driving force impacting the OA rates. The interactive map below displays European countries and their overall OA rates in the period 2018-2021. We can see that Germany, one of the wealthiest countries in Europe has an OA rate of 66.7% whereas less wealthy countries like Hungary (77.4%) have significantly higher OA rates. Other factors like national policy making and research culture might have equally (or even stronger) influence on OA publication rates than funding availability.
 
 <figure>
-  <iframe src="{{ 'https://moejakob.github.io/images/OA/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+  <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_map_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: center; font-style: italic;">
-    Figure 2: Interactive map of the top 10 Open Access universities in Germany (2018-2021).
+    Figure 4: Interactive map of Open Access rates in european countries (2018-2021).
   </figcaption>
 </figure>
 
+Since I am a German myself and have in the past worked at a German university, I am particularly interested in OA practices in my home country. So let's take a closer look:<br/>
+These are the top 10 German universities by their open access publishing rate (period: 2018-2021). The number one spot on this list is held by the University of Konstanz (which incidentally is the university at which I was employed in the past 😉). While it takes the top spot among German universities with an OA rate of 79.4% it only just makes it into the top 100 European universities (99th place) and just misses out on a spot in the top 100 OA universities worldwide (105th place). 
 <figure>
-  <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_world_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+  <iframe src="{{ 'https://moejakob.github.io/images/OA/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: center; font-style: italic;">
-    Figure 3: Interactive graphic of Open Access rates by field and Open Access colours worldwide (2018-2021).
+    Figure 5: Interactive map of the top 10 Open Access universities in Germany (2018-2021).
+  </figcaption>
+</figure>
+
+If we compare OA rates of German universities (Fig. 6) to the European average (Fig. 7), we see that, on a European level, Germany has sadly fallen behind in the uptake of open access practices. Changing this will require progressive policy making by the German government and a change in the German research culture.
+
+The values from Figures 6 and 7 are summarised in Table 1.
+
+| Scientific Field                  | Germany   | Europe   |
+|-----------------------------------|-----------|----------|
+| Overall                           | 66.7 %    | 71.0 %   |
+| Biomedical and Health Sciences    | 72.0 %    | 74.5 %   |
+| Life And Earth Sciences           | 68.3 %    | 71.8 %   |
+| Mathematics And Computer Science  | 64.9 %    | 68.2 %   |
+| Physical Sciences And Engineering | 62.5 %    | 69.4 %   |
+| Social Sciences And Humanities    | 59.4 %    | 66.2 %   |
+<figcaption style="text-align: center; font-style: italic;">
+Table 1: Open Access rates in scientific displince in Germany vs. Europe (2018-2021).
+</figcaption>
+
+<figure>
+  <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+  <figcaption style="text-align: center; font-style: italic;">
+    Figure 6: Interactive graphic of Open Access rates by field and Open Access colours in Europe (2018-2021).
   </figcaption>
 </figure>
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: center; font-style: italic;">
-    Figure 4: Interactive graphic of Open Access rates by field and Open Access colours in Germany (2018-2021).
-  </figcaption>
-</figure>
-
-<figure>
-  <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_map_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
-    Figure 5: Interactive map of Open Access rates in european countries (2018-2021).
+    Figure 7: Interactive graphic of Open Access rates by field and Open Access colours in Germany (2018-2021).
   </figcaption>
 </figure>
