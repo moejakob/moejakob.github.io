@@ -21,7 +21,7 @@ repository               : "moejakob/moejakob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hiking_headshot_circle.png"
+  avatar           : "images/main_page/hiking_headshot_circle.png"
   name             : "Moritz Jakob"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Data Professional"
