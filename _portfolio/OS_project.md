@@ -23,7 +23,7 @@ Additionally, OA practices also vary quite strongly by regions. In the map below
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/top_100_oa_unis_world_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
+  <figcaption style="text-align: left; font-style: italic;">
     Figure 2: Interactive map of the top 100 Open Access universities worldwide (2018-2021).
   </figcaption>
 </figure>
@@ -31,7 +31,7 @@ Additionally, OA practices also vary quite strongly by regions. In the map below
 Open Access is often subcategorised into different *colours*. While all articles that are published in any type of OA can be accessed for free, most major publishers have adapted models (**Gold OA** and **Hybrid OA**) that require publication fees from researchers that want to publish their work as an OA article. Other models like **Green OA** and **Bronze OA** don't require publication fees. When we look at the development of OA publication rates by OA colours, we notice that the increase in OA rates is largely driven by **Gold** and **Hybrid Open Access** publications - the two models that require payment from researchers. Since research funding varies from region to region, it is not unexpected that OA practices are mostly centered around Europe rather than poorer countries. I will go into more details about this issue and about the different OA models in a blog post soon.
 
 [![Figure 3: OA publication rates over time for different OA models](/images/OA/oa_colours_rate_over_time_stack.png)](/images/OA/oa_colours_rate_over_time_stack.png)
-<figcaption style="text-align: center; font-style: italic;">
+<figcaption style="text-align: left; font-style: italic;">
     Figure 3: OA publication rates over time for different OA models.
 </figcaption>
 <br/><br/>
@@ -39,7 +39,7 @@ However, it seems that the amount of funding is not the only driving force impac
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_map_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
+  <figcaption style="text-align: left; font-style: italic;">
     Figure 4: Interactive map of Open Access rates in european countries (2018-2021).
   </figcaption>
 </figure>
@@ -49,7 +49,7 @@ These are the top 10 German universities by their open access publishing rate (p
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
+  <figcaption style="text-align: left; font-style: italic;">
     Figure 5: Interactive map of the top 10 Open Access universities in Germany (2018-2021).
   </figcaption>
 </figure>
@@ -78,7 +78,47 @@ Figures 6 and 7 allow us to look at these numbers in more detail. Specifically, 
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
+  <figcaption style="text-align: left; font-style: italic;">
     Figures 6 & 7: Interactive graphics of Open Access rates by field and Open Access colours in Germany and Europe (2018-2021).
   </figcaption>
 </figure>
+
+## Correlation between OA Practices and University Statistics
+Finally, I want to see how Open Access rates correlate with different university statistics. For the university statistics I used two resources: the [Times Higher Education (THE) World University Ranking](https://www.timeshighereducation.com/world-university-rankings) for university ranking statistics (I used data from the year 2021 so it matches the data from the CWTS Leiden Ranking) and university microdata from the [European Tertiary Education Register (ETER)](https://eter-project.com/) (also from the year 2021).
+
+### CWTS Leiden Ranking and THE University Ranking
+Let's first look at a correlation matrix of the correlations between the CWTS Leiden Ranking and the THE University Rankings. I highlighted the most interesting part of the matrix, i.e. the correlations of OA rates and the 6 THE scores (Overall, Teaching, Research, Citations, Industry Income, and International Outlook).
+
+[![Correlation Table of CWTS and THE University Rankings](/images/OA/oa_the_corr_highlight.png)](/images/OA/oa_the_corr_highlight.png)
+<figcaption style="text-align: left; font-style: italic;">
+Figures 8: Correlation matrix (Pearson's r) of the CWTS and the THE University Rankings. Correlations between OA (model) rates and THE scores are highlighted.
+</figcaption>
+<br/><br/>
+With two exceptions, the matrix shows positive correlations between all THE scores and all CWTS OA rates, indicating that overall, universities that have highe OA rates also score higher on the THE University Ranking scores. A very remarkable exception is the **Gold OA** rate which correlates **negatively** with the THE scores. As we have seen above, **Gold OA** is largely responsible for the strong increase in overall OA publication rates worldwide. While this is counterintuitive, it is somewhat consistent with the results of a study by [Piwowar and colleagues (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5815332/) that found that **Gold OA** articles are cited **less often** than the overall average. In their discussion they state the following conjecture to explain this fact.
+
+> "Interestingly, Gold articles are actually cited less, likely due to an increase in the number of newer and smaller OA journals. Some of these journals are from regions of the world not historically indexed by WoS, are published in languages other than English, or might be considered to be less prestigious because they have not had time to become established or accumulate citations (Archambault et al., 2013). On the flip side, the citation disadvantage of Gold OA is likely also affected by the continued growth of so-called ‘mega journals’ such as PLOS ONE ( PLOS, 2018)."
+
+The second exception are correlation coefficients related to the THE Industry Income Score. However since they don't show strong correlations in either direction, I will not discuss them further.
+
+### CWTS Leiden Ranking and ETER University Microdata
+Secondly, I want to look at correlations between OA rates and some university microdata, specifically total third party funding, number of academic personnel and number of students. Again, I highlighted the part of the correlation matrix that I find most relevant.
+
+[![Correlation Table of CWTS and ETER University Microdata](/images/OA/oa_eter_corr_highlight.png)](/images/OA/oa_eter_corr_highlight.png)
+<figcaption style="text-align: left; font-style: italic;">
+Figures 9: Correlation matrix (Pearson's r) of the CWTS OA rates and ETER University Microdata. Correlations between OA (model) rates and microdata are highlighted.
+</figcaption>
+<br/><br/>
+Once agein, we observe that **Gold OA** rates correlate negatively with all three university statistics, indicating that universities with more third party funding, more academic personnel and more students display lower Gold OA publication rates. Likely the most interesting positive correlations are those of third party funding with Overall OA rates, as well as Hybrid-, Bronze- and Green-OA rates indicating that universities with higher funding also have higher OA rates (with the exception of Gold OA), potentially giving universities an incentive to encourage their researchers to publish in open access.
+
+### Additional correlation visualisations
+The following graphics visualise the correlations between the OA rates with the THE scores and the ETER microdata, respectively.
+
+[![Correlation Table of CWTS and ETER Funding data](/images/OA/oa_funding_corr.png)](/images/OA/oa_funding_corr.png)
+<figcaption style="text-align: left; font-style: italic;">
+Figures 10: Correlations between the CWTS and the Total amount of third party funding in Mio Euro.
+</figcaption>
+
+[![Correlation Table of CWTS and THE Scores](/images/OA/oa_the_corr.png)](/images/OA/oa_the_corr.png)
+<figcaption style="text-align: left; font-style: italic;">
+Figures 11: Correlations between the CWTS and the THE University Ranking Overall-, Research- and Citation-scores.
+</figcaption>
