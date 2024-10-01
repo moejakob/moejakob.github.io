@@ -58,7 +58,7 @@ If we compare OA rates of German universities to the European average, we see th
 
 
 | Scientific Field                    | Germany     | Europe     |
-| ----------------------------------- | ----------- | ---------- |
+|:-----------------------------------:|:----------:|:----------:|
 | Overall                             | 66.7 %      | 71.0 %     |
 | Biomedical and Health Sciences      | 72.0 %      | 74.5 %     |
 | Life And Earth Sciences             | 68.3 %      | 71.8 %     |
