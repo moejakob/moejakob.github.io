@@ -14,8 +14,7 @@ Every year, the Centre for Science and Technology Studies (CWTS) Leiden publishe
 ## Exploring Open Access Practices
 Open Access has gained a lot of momentum in recent years. As a matter of fact, the overall worldwide open access publication rate (blue line has risen from 28.2% during the period of 2006-2009 to 55.1% during the most recently assessed period (2018-2021). It is notable, that opan access conventions differ between subject areas. In particular, OA rates in the Biomedichal and Health Sciences (orange line) have consistently been higher than in other fields. A reason for those high OA rates may be that this area of research can be viewed being of especially high importance as it can literally decide over life and death.
 
-[![Figure 1: Open Access Rates (%) over Time for Different Scientific fields](/images/OA/overall_oa_rate_over_time.png)](/images/OA/overall_oa_rate_over_time.png)
-<figcaption style="text-align: center; font-style: italic;">
+[![Figure 1: Open Access Rates (%) over Time for Different Scientific fields](/images/OA/overall_oa_rate_over_time.png)](/images/OA/overall_oa_rate_over_time.png)<figcaption style="text-align: left; font-style: italic;">
     Figure 1: Open Access Rates (%) over Time for Different Scientific fields.
 </figcaption>
 
