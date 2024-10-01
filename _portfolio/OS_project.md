@@ -54,33 +54,31 @@ These are the top 10 German universities by their open access publishing rate (p
   </figcaption>
 </figure>
 
-If we compare OA rates of German universities (Fig. 6) to the European average (Fig. 7), we see that, on a European level, Germany has sadly fallen behind in the uptake of open access practices. Changing this will require progressive policy making by the German government and a change in the German research culture.
+If we compare OA rates of German universities to the European average, we see that the German average lies below the European average in every single scientific field and in the overall OA publishing rate. This indicates that, on a European level, Germany has sadly fallen behind in the uptake of open access practices. Changing this will require progressive policy making by the German government and a change in the German research culture.
 
-Table 1 summarises the overall OA rates by scientific fields for German and for all European Universities. It is notable the German average lies below the European average in every single scientific field and in the overall OA publishing rate.
 
-| Scientific Field                  | Germany   | Europe   |
+| Scientific Field                    | Germany     | Europe     |
 | ----------------------------------- | ----------- | ---------- |
-| Overall                           | 66.7 %    | 71.0 %   |
-| Biomedical and Health Sciences    | 72.0 %    | 74.5 %   |
-| Life And Earth Sciences           | 68.3 %    | 71.8 %   |
-| Mathematics And Computer Science  | 64.9 %    | 68.2 %   |
-| Physical Sciences And Engineering | 62.5 %    | 69.4 %   |
-| Social Sciences And Humanities    | 59.4 %    | 66.2 %   |
+| Overall                             | 66.7 %      | 71.0 %     |
+| Biomedical and Health Sciences      | 72.0 %      | 74.5 %     |
+| Life And Earth Sciences             | 68.3 %      | 71.8 %     |
+| Mathematics And Computer Science    | 64.9 %      | 68.2 %     |
+| Physical Sciences And Engineering   | 62.5 %      | 69.4 %     |
+| Social Sciences And Humanities      | 59.4 %      | 66.2 %     |
 
 <figcaption style="text-align: left; font-style: italic;">
 Table 1: Open Access rates in scientific displins in Germany vs. Europe (2018-2021).
 </figcaption>
 
+Figures 6 and 7 allow us to look at these numbers in more detail. Specifically, they allow us to see the publishing rates for the different OA models. It is notable that there is one model where the German publishing rate is higher than the European one, namely, the **Hybrid OA** model. This is, infact, not necessarily disirable, as **Hybrid OA** describes a publishing practice that allows publishers to both ask for publication fees **and** subscription fees - a practice also termed double dipping.
+
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
-  <figcaption style="text-align: center; font-style: italic;">
-    Figure 6: Interactive graphic of Open Access rates by field and Open Access colours in Europe (2018-2021).
-  </figcaption>
 </figure>
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: center; font-style: italic;">
-    Figure 7: Interactive graphic of Open Access rates by field and Open Access colours in Germany (2018-2021).
+    Figures 6 & 7: Interactive graphics of Open Access rates by field and Open Access colours in Germany and Europe (2018-2021).
   </figcaption>
 </figure>
