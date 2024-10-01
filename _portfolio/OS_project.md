@@ -58,14 +58,15 @@ If we compare OA rates of German universities (Fig. 6) to the European average (
 The values from Figures 6 and 7 are summarised in Table 1.
 
 | Scientific Field                  | Germany   | Europe   |
-|-----------------------------------|-----------|----------|
+| ----------------------------------- | ----------- | ---------- |
 | Overall                           | 66.7 %    | 71.0 %   |
 | Biomedical and Health Sciences    | 72.0 %    | 74.5 %   |
 | Life And Earth Sciences           | 68.3 %    | 71.8 %   |
 | Mathematics And Computer Science  | 64.9 %    | 68.2 %   |
 | Physical Sciences And Engineering | 62.5 %    | 69.4 %   |
 | Social Sciences And Humanities    | 59.4 %    | 66.2 %   |
-<figcaption style="text-align: center; font-style: italic;">
+
+<figcaption style="text-align: left; font-style: italic;">
 Table 1: Open Access rates in scientific displince in Germany vs. Europe (2018-2021).
 </figcaption>
 
