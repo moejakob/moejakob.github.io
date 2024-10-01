@@ -57,19 +57,19 @@ These are the top 10 German universities by their open access publishing rate (p
 If we compare OA rates of German universities to the European average, we see that the German average lies below the European average in every single scientific field and in the overall OA publishing rate. This indicates that, on a European level, Germany has sadly fallen behind in the uptake of open access practices. Changing this will require progressive policy making by the German government and a change in the German research culture.
 
 
-| Scientific Field | Germany | Europe |
-| -------------|:----------:|:----------:|
-| Overall | 66.7 % | 71.0 % |
-| Biomedical and Health Sciences  72.0 % | 74.5 % |
-| Life And Earth Sciences | 68.3 % | 71.8 % |
-| Mathematics And Computer Science | 64.9 % | 68.2 % |
-| Physical Sciences And Engineering  62.5 % | 69.4 % |
-| Social Sciences And Humanities | 59.4 % | 66.2 % |
+| Scientific Field                  | Germany    | Europe     |
+|:---------------------------------:|:----------:|:----------:|
+| Overall                           | 66.7 %     | 71.0 %     |
+| Biomedical and Health Sciences    | 72.0 %     | 74.5 %     |
+| Life And Earth Sciences           | 68.3 %     | 71.8 %     |
+| Mathematics And Computer Science  | 64.9 %     | 68.2 %     |
+| Physical Sciences And Engineering | 62.5 %     | 69.4 %     |
+| Social Sciences And Humanities    | 59.4 %     | 66.2 %     |
 
 <figcaption style="text-align: left; font-style: italic;">
 Table 1: Open Access rates in scientific displins in Germany vs. Europe (2018-2021).
 </figcaption>
-
+<br/><br/>
 Figures 6 and 7 allow us to look at these numbers in more detail. Specifically, they allow us to see the publishing rates for the different OA models. It is notable that there is one model where the German publishing rate is higher than the European one, namely, the **Hybrid OA** model. This is, infact, not necessarily disirable, as **Hybrid OA** describes a publishing practice that allows publishers to both ask for publication fees **and** subscription fees - a practice also termed double dipping.
 
 <figure>
