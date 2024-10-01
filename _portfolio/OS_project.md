@@ -68,7 +68,7 @@ Table 1 summarises the overall OA rates by scientific fields for German and for 
 | Social Sciences And Humanities    | 59.4 %    | 66.2 %   |
 
 <figcaption style="text-align: left; font-style: italic;">
-Table 1: Open Access rates in scientific displince in Germany vs. Europe (2018-2021).
+Table 1: Open Access rates in scientific displins in Germany vs. Europe (2018-2021).
 </figcaption>
 
 <figure>
