@@ -45,7 +45,8 @@ However, it seems that the amount of funding is not the only driving force impac
 </figure>
 
 Since I am a German myself and have in the past worked at a German university, I am particularly interested in OA practices in my home country. So let's take a closer look:<br/>
-These are the top 10 German universities by their open access publishing rate (period: 2018-2021). The number one spot on this list is held by the University of Konstanz (which incidentally is the university at which I was employed in the past 😉). While it takes the top spot among German universities with an OA rate of 79.4% it only just makes it into the top 100 European universities (99th place) and just misses out on a spot in the top 100 OA universities worldwide (105th place). 
+These are the top 10 German universities by their open access publishing rate (period: 2018-2021). The number one spot on this list is held by the University of Konstanz (which incidentally is the university at which I was employed in the past 😉). While it takes the top spot among German universities with an OA rate of 79.4% it only just makes it into the top 100 European universities (99th place) and just misses out on a spot in the top 100 OA universities worldwide (105th place).
+
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: center; font-style: italic;">
