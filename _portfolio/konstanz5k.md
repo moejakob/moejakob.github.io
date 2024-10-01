@@ -1,6 +1,6 @@
 ---
 title: "Konstanz Weekly 5k Run"
-excerpt: "In this project I explore some data from a weekly 5 kilometer running event I help organise.<br/><a href='https://moejakob.github.io/portfolio/konstanz5k/'><img src='/images/Running.png'></a>"
+excerpt: "In this project I explore some data from a weekly 5 kilometer running event I help organise.<br/><a href='https://moejakob.github.io/portfolio/konstanz5k/'><img src='/images/5k/Running.png'></a>"
 collection: portfolio
 ---
 ([Find all the code for this project on my Github-Account](https://github.com/moejakob/konstanz5k))
@@ -35,34 +35,34 @@ Now that you know some of the key facts, I hope I woke your curiosity. So let's 
 ### Volunteer ratio
 The first thing I wanted to know is how many of the runners who have participated in our event have ever volunteered at an event by the same global organisation. And the very pleasant answer to that is: more than half!! All the people who willingly offer their time to volunteer at our running events make it possible to organise them week in, week out - they are absolute legends!
 
-[![Volunteer Ratio](/images/pie.png)](/images/pie.png)
+[![Volunteer Ratio](/images/5k/pie.png)](/images/5k/pie.png)
 
 Unsurprisingly, there is a correlation between the number of times people have participated as a runner and the number of times they have volunteered. Generally, the longer you're part of the community, the more time you have to rack up both runs and volunteer credits.
 
-[![Volunteer-Run Correlation](/images/volunteer_ratio.png)](/images/volunteer_ratio.png)
+[![Volunteer-Run Correlation](/images/5k/volunteer_ratio.png)](/images/5k/volunteer_ratio.png)
 
 ### Seasonal differences
 Anyone who runs, knows that is quite different to run at different times of the year. For example, it is a lot easier to find the motivation to go for a run on a nice and sunny summer morning than on a cold and wet winter morning. This is very nicely reflected in the data (see the graph on the left). It even turns out that there are some seasonal differences in running speed (see the graph on the right). While the differences in running speed don't seem too big, 0.5 km/h (the difference between spring and summer) comes out to a finishing time difference of almost 1:30 min which over 5 kilometers is quite a lot.
 
-[![Seasonal differences](/images/seasonal_diffs.png)](/images/seasonal_diffs.png)
+[![Seasonal differences](/images/5k/seasonal_diffs.png)](/images/5k/seasonal_diffs.png)
 
 ### Attendance
 Now we established that the attendance underlies seasonal changes, let's see if there is an overall trend in participant numbers. The linegraph below shows the developement of finisher number over the 163 organised events. The first thing that (quite literally) spikes out is that one event had many more participants than all others. This was the aforementioned 100th event where we managed to recruit 125 runners to join us. The red line also shows us that attendance in our runs is overall increasing with time. One thing that is a bit harder to see, are the seasonal changes. They are reflected by the periods with higher attendance numbers (e.g. around the 100th-115th and the 145th-160th event) displayed by the blue line.
 
-[![Finishers over time](/images/finishers.png)](/images/finishers.png)
+[![Finishers over time](/images/5k/finishers.png)](/images/5k/finishers.png)
 
 ### Average speed
 We can also see if there are any overall trends when it comes to average speed. The red line on the graph below indicates that overall there isn't really a strong trend here. However, there are still a few things we can interpret fro this graph. Firstly, it seems that in the last 20-30 weeks, the average speed has gotten more consistent (the peaks and troughs on the blue line aren't as far apart). One reason for this could be the rising numbers in attendance. With a larger sample size (i.e. with more runners per week) the average speed will converge closer to the true mean of the population. And secondly, it looks like in the first ~20 weeks, the average speed was a bit higher than later. A reason for this could be that the event in Konstanz was founded by club runners. Therefore the first attendees were likely also club runners who tend to be faster than non-club runners.
 
-[![Speed over time](/images/avg_speed_over_time.png)](/images/avg_speed_over_time.png)
+[![Speed over time](/images/5k/avg_speed_over_time.png)](/images/5k/avg_speed_over_time.png)
 
 Let's just double check if that last statement (that club runners tend to be faster than non-club runners) is true. It sure looks like it in the violinplot below.
 
-[![Speed of club runners](/images/avg_speed_club.png)](/images/avg_speed_club.png)
+[![Speed of club runners](/images/5k/avg_speed_club.png)](/images/5k/avg_speed_club.png)
 
 Finally, let's see how running performance differs by age group. In the dataset there are basically two performance metrics. One is average speed (which is derived from the finishing time) and the other one is an age graded metric that adjusts the performance for gender and age group. Let's compare them side by side.
 
-[![Age group performance](/images/agegroups.png)](/images/agegroups.png)
+[![Age group performance](/images/5k/agegroups.png)](/images/5k/agegroups.png)
 
 Now this **a lot** of information so let's unpack it bit by bit. Let's first decode the age group abbreviations (on the horizontal axis). The letter stands for the gender and the numbers for the age(range). 
 
@@ -84,4 +84,4 @@ The model trained for the age grade performance on the other hand performed pret
 
 One reason why I like random forests is that they allow you to look at the importance of the features quite easily. So let's do that to find out which variable is most helpful in predicting running performance. What we can see in the graphs below is that for the average running speed prediction, the variable **gender** is relatively the most important in predicting performance, followed by the **club affiliation**. Both variables showed clear differences in running speed in the exploratory data analysis, so this doesn't really come as a surprise. What is more surprising, is that **gender** and **agegroup** are the two best predictors for the age graded metric. Remember, this metric is actually meant to make running performance comparable across genders and agegroups so we would expect them to be less impactful when predicting this metric. However, given the fairly poor fit of the model, drawing any conclusions from it wouldn't be very smart.
 
-[![Feature importances](/images/feature_importances.png)](/images/feature_importances.png)
+[![Feature importances](/images/5k/feature_importances.png)](/images/5k/feature_importances.png)
