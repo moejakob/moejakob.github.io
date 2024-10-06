@@ -6,6 +6,7 @@ tags:
   - science
   - open science
   - equality
+published: false
 ---
 
 In [a recent post](https://moejakob.github.io/portfolio/OS_project/) I wrote about the state and the development of Open Access publication practices and showed that over the last 18 years, the rate of scientific papers that were published openly has increased dramatically. In this blog post I want to explain to you, why this is great news. The data analysis I conducted for the other post was focused on Open Access (i.e. making research papers available for everyone for free). Here, I will also write about other practices that play a crucial role in Open Science.
@@ -32,4 +33,4 @@ Researchers have a lot on their plate. Their priority is doing their own researc
 ### Publish your paper open access
 Traditionally, university libraries had subscriptions to research journals so they researchers could read the papers published in them. If your university didn't have a subscription to a specific journal, you could either buy an individual paper for a lot of money or you couldn't use the (potentially crucial) information written in those journals. This creates a problem of inequality because not all universities have big funding organisations standing behind them. So especially universities in poorer countries may not be able to afford all the important journal subscriptions. Luckily, publishing research papers open access is now more common than not doing so - especially in major scientific locations in Europe and North America and the open access publishing rates are still rising.
 
-## Potential pitfalls of Open Sciense
+## Potential pitfalls of Open Science
