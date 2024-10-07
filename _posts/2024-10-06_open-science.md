@@ -6,7 +6,6 @@ tags:
   - science
   - open science
   - equality
-published: false
 ---
 
 In [a recent post](https://moejakob.github.io/portfolio/OS_project/) I wrote about the state and the development of Open Access publication practices and showed that over the last 18 years, the rate of scientific papers that were published openly has increased dramatically. In this blog post I want to explain to you, why this is great news. The data analysis I conducted for the other post was focused on Open Access (i.e. making research papers available for everyone for free). Here, I will also write about other practices that play a crucial role in Open Science.
@@ -34,3 +33,21 @@ Researchers have a lot on their plate. Their priority is doing their own researc
 Traditionally, university libraries had subscriptions to research journals so they researchers could read the papers published in them. If your university didn't have a subscription to a specific journal, you could either buy an individual paper for a lot of money or you couldn't use the (potentially crucial) information written in those journals. This creates a problem of inequality because not all universities have big funding organisations standing behind them. So especially universities in poorer countries may not be able to afford all the important journal subscriptions. Luckily, publishing research papers open access is now more common than not doing so - especially in major scientific locations in Europe and North America and the open access publishing rates are still rising.
 
 ## Potential pitfalls of Open Science
+Overall I strongly believe that the advantages of Open Science outweigh its disadvantage. That being said, researchers should still be cautious when they practice Open Science. For example, most open access articles are now published as *gold open access*, meaning that publishers ask for a publication fee (a.k.a. article processing charges (APCs)). In reputable journals like Nature, these fees may be in the high four figure range for a single article. On the one hand this is problematic because this model merely shifts the inequality problematic from some poorer universities not having access to scientific discoveries to them not being able to publish their own research in open access journals. In recent years, an even bigger issue has arisen from this model. So called predatory publishing. So called predatory journals actively invite researchers to publish in their journals. To publish in those journals, these publishers ask the researchers to pay the APCs up front. The articles are then published with little to no editorial process (in particular without peer review), which means you can basically publish anything you want in those journals, even if it has no scientific basis. Here is a really good TEDx Talk by Bradley Allf about this topic:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=73goVcQw0QI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Another issue arises when we're talking about openly sharing your research data. I already described some of the benefits of sharing your data. But there are two major considerations that you should make before doing so:
+
+1. **Are you allowed to share your data?** This issue is most prevalent in health- and social sciences, where you may work with personal (patient) data. Most countries have data protection laws that prohibit the sharing of personal data without consent of the respective person. Therefore, when you're working with personal data and want to share it, it is crucial that you pseudonymise or even anonymise the data before sharing it in the repository of your choice.
+2. **Is it morally acceptable to share your data?** This might for example be of interest for nuclear physicists, whose research data could be abused to build weaponry.
+
+## Conclusion
+To sum up all that you have just read:
+
+Practicing Open Science has many benefits and will (hopefully) become the research standard soon. However, doing so will take careful consideration and even some extra effort from the researchers side.
+
+## Bonus
+Here is a video of me, slamming some science at an Open Science Slam that my former colleagues and I organised in January 2024:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1w5T1OGeF30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
