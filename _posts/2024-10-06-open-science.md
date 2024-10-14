@@ -50,4 +50,4 @@ Practicing Open Science has many benefits and will (hopefully) become the resear
 ## Bonus
 Here is a video of me, slamming some science at an Open Science Slam that my former colleagues and I organised in January 2024:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1w5T1OGeF30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="1w5T1OGeF30" %}
