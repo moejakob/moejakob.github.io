@@ -37,6 +37,7 @@ Open Access is often subcategorised into different *colours*. While all articles
 <br/><br/>
 However, it seems that the amount of funding is not the only driving force impacting the OA rates. The interactive map below displays European countries and their overall OA rates in the period 2018-2021. We can see that Germany, one of the wealthiest countries in Europe has an OA rate of 66.7% whereas less wealthy countries like Hungary (77.4%) have significantly higher OA rates. Other factors like national policy making and research culture might have equally (or even stronger) influence on OA publication rates than funding availability.
 
+## Interactive Dashboard Visualizing Open Access Rates
 <iframe title="oa_dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=ef0da719-528c-4e36-a9df-0b8a15d05c06&autoAuth=true&ctid=a0668a0b-7f14-4396-ad4d-0ebf06457115" frameborder="0" allowFullScreen="true"></iframe>
 
 <figure>
