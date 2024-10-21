@@ -38,12 +38,17 @@ Open Access is often subcategorised into different *colours*. While all articles
 However, it seems that the amount of funding is not the only driving force impacting the OA rates. The interactive map below displays European countries and their overall OA rates in the period 2018-2021. We can see that Germany, one of the wealthiest countries in Europe has an OA rate of 66.7% whereas less wealthy countries like Hungary (77.4%) have significantly higher OA rates. Other factors like national policy making and research culture might have equally (or even stronger) influence on OA publication rates than funding availability.
 
 ## Interactive Dashboard Visualizing Open Access Rates
+<figure>
 <iframe title="oa_dashboard" width="100%" height="600px" src="https://app.powerbi.com/reportEmbed?reportId=f2a080ce-e811-4c08-acdb-3257d4731353&autoAuth=true&ctid=a0668a0b-7f14-4396-ad4d-0ebf06457115" frameborder="0" allowFullScreen="true"></iframe>
+<figcaption style="text-align: left; font-style: italic;">
+    Figure 4: Interactive Power BI dashboard of the development of Open Access in different countries, universities and across fields.
+  </figcaption>
+</figure>
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_map_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: left; font-style: italic;">
-    Figure 4: Interactive map of Open Access rates in european countries (2018-2021).
+    Figure 5: Interactive map of Open Access rates in european countries (2018-2021).
   </figcaption>
 </figure>
 
@@ -53,7 +58,7 @@ These are the top 10 German universities by their open access publishing rate (p
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/top_10_oa_unis_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: left; font-style: italic;">
-    Figure 5: Interactive map of the top 10 Open Access universities in Germany (2018-2021).
+    Figure 6: Interactive map of the top 10 Open Access universities in Germany (2018-2021).
   </figcaption>
 </figure>
 
@@ -73,7 +78,7 @@ If we compare OA rates of German universities to the European average, we see th
 Table 1: Open Access rates in scientific displins in Germany vs. Europe (2018-2021).
 </figcaption>
 <br/><br/>
-Figures 6 and 7 allow us to look at these numbers in more detail. Specifically, they allow us to see the publishing rates for the different OA models. It is notable that there is one model where the German publishing rate is higher than the European one, namely, the **Hybrid OA** model. This is, infact, not necessarily disirable, as **Hybrid OA** describes a publishing practice that allows publishers to both ask for publication fees **and** subscription fees - a practice also termed double dipping.
+Figures 7 and 8 allow us to look at these numbers in more detail. Specifically, they allow us to see the publishing rates for the different OA models. It is notable that there is one model where the German publishing rate is higher than the European one, namely, the **Hybrid OA** model. This is, infact, not necessarily disirable, as **Hybrid OA** describes a publishing practice that allows publishers to both ask for publication fees **and** subscription fees - a practice also termed double dipping.
 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_europe_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
@@ -82,7 +87,7 @@ Figures 6 and 7 allow us to look at these numbers in more detail. Specifically, 
 <figure>
   <iframe src="{{ 'https://moejakob.github.io/images/OA/oa_rate_fields_colors_germany_2018-2021.html' | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
   <figcaption style="text-align: left; font-style: italic;">
-    Figures 6 & 7: Interactive graphics of Open Access rates by field and Open Access colours in Germany and Europe (2018-2021).
+    Figures 7 & 8: Interactive graphics of Open Access rates by field and Open Access colours in Germany and Europe (2018-2021).
   </figcaption>
 </figure>
 
@@ -94,7 +99,7 @@ Let's first look at a correlation matrix of the correlations between the CWTS Le
 
 [![Correlation Table of CWTS and THE University Rankings](/images/OA/oa_the_corr_highlight.png)](/images/OA/oa_the_corr_highlight.png)
 <figcaption style="text-align: left; font-style: italic;">
-Figures 8: Correlation matrix (Pearson's r) of the CWTS and the THE University Rankings. Correlations between OA (model) rates and THE scores are highlighted.
+Figure 9: Correlation matrix (Pearson's r) of the CWTS and the THE University Rankings. Correlations between OA (model) rates and THE scores are highlighted.
 </figcaption>
 <br/><br/>
 With two exceptions, the matrix shows positive correlations between all THE scores and all CWTS OA rates, indicating that overall, universities that have highe OA rates also score higher on the THE University Ranking scores. A very remarkable exception is the **Gold OA** rate which correlates **negatively** with the THE scores. As we have seen above, **Gold OA** is largely responsible for the strong increase in overall OA publication rates worldwide. While this is counterintuitive, it is somewhat consistent with the results of a study by [Piwowar and colleagues (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5815332/) that found that **Gold OA** articles are cited **less often** than the overall average. In their discussion they state the following conjecture to explain this fact.
@@ -108,7 +113,7 @@ Secondly, I want to look at correlations between OA rates and some university mi
 
 [![Correlation Table of CWTS and ETER University Microdata](/images/OA/oa_eter_corr_highlight.png)](/images/OA/oa_eter_corr_highlight.png)
 <figcaption style="text-align: left; font-style: italic;">
-Figures 9: Correlation matrix (Pearson's r) of the CWTS OA rates and ETER University Microdata. Correlations between OA (model) rates and microdata are highlighted.
+Figure 10: Correlation matrix (Pearson's r) of the CWTS OA rates and ETER University Microdata. Correlations between OA (model) rates and microdata are highlighted.
 </figcaption>
 <br/><br/>
 Once agein, we observe that **Gold OA** rates correlate negatively with all three university statistics, indicating that universities with more third party funding, more academic personnel and more students display lower Gold OA publication rates. Likely the most interesting positive correlations are those of third party funding with Overall OA rates, as well as Hybrid-, Bronze- and Green-OA rates indicating that universities with higher funding also have higher OA rates (with the exception of Gold OA), potentially giving universities an incentive to encourage their researchers to publish in open access.
@@ -118,10 +123,10 @@ The following graphics visualise the correlations between the OA rates with the 
 
 [![Correlation Table of CWTS and ETER Funding data](/images/OA/oa_funding_corr.png)](/images/OA/oa_funding_corr.png)
 <figcaption style="text-align: left; font-style: italic;">
-Figures 10: Correlations between the CWTS and the Total amount of third party funding in Mio Euro.
+Figure 11: Correlations between the CWTS and the Total amount of third party funding in Mio Euro.
 </figcaption>
 
 [![Correlation Table of CWTS and THE Scores](/images/OA/oa_the_corr.png)](/images/OA/oa_the_corr.png)
 <figcaption style="text-align: left; font-style: italic;">
-Figures 11: Correlations between the CWTS and the THE University Ranking Overall-, Research- and Citation-scores.
+Figure 12: Correlations between the CWTS and the THE University Ranking Overall-, Research- and Citation-scores.
 </figcaption>
